@@ -10,7 +10,7 @@ step 3: selecting the features which are highly correleted
 
 step 4: selecting the situable model for training the data
 
-step 5: predit the Output
+step 5: Predit the Output
 
 
 <img width="800" alt="Screenshot 2022-12-09 at 1 41 02 PM" src="https://user-images.githubusercontent.com/67418559/206655687-35ad77bf-b536-476c-8ee7-630662c59aa3.png">
