@@ -78,5 +78,4 @@ def main():
     # Test the model
     test_model(model, vectorizer, test_headlines, test_labels)
 
-if __name__ == "__main__":
-    main()
+
